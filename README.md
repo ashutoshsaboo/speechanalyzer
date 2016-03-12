@@ -58,3 +58,6 @@ WP	wh-pronoun	who, what - Magenta <br>
 WP$	possessive wh-pronoun	whose - Magenta <br>
 WRB	wh-abverb	where, when - Magenta <br>
 
+## Credits-:
+
+Ashutosh Saboo - https://github.com/ashutoshsaboo

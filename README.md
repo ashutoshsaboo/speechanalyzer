@@ -1,6 +1,6 @@
 # Speech Analyzer
 
-This Python program helps to analyze and find verbs, pronouns, adverbs, adjectives, nouns, proper nouns etc in your live recorded speech, and displays output on the screen, in different color codes listed below-:
+This Python program helps to analyze and find verbs, pronouns, adverbs, adjectives, nouns, proper nouns etc in your live recorded speech using Natural Language Processing (NLP), and displays output on the screen, in different color codes listed below-:
 
 ## Color Codes-:
 
@@ -39,3 +39,14 @@ WDT	wh-determiner	which - Cyan <br>
 WP	wh-pronoun	who, what - Magenta <br>
 WP$	possessive wh-pronoun	whose - Magenta <br>
 WRB	wh-abverb	where, when - Magenta <br>
+
+## Packages Requirements-:
+
+<ol>
+<li> Speech Recognition 3.3.3 - https://pypi.python.org/pypi/SpeechRecognition/ </li>
+<li> NLTK - www.nltk.org </li>
+<li> Termcolor - https://pypi.python.org/pypi/termcolor </li>
+</ol>
+
+Install these packages first, and just run the python file - `python smartaudiotospeech.py` from the terminal. 
+

@@ -8,7 +8,7 @@ This Python program helps to analyze and find verbs, pronouns, adverbs, adjectiv
 <br><br>
 `smartaudiotospeech.py` - Records your voice live, Displays your speech in text format, and does the analyzing part, and then displays it in the respective colors. 
 
-## Packages Requirements-:
+## Package Requirements-:
 
 <ol>
 <li> Speech Recognition 3.3.3 - https://pypi.python.org/pypi/SpeechRecognition/ </li>

@@ -14,6 +14,7 @@ This Python program helps to analyze and find verbs, pronouns, adverbs, adjectiv
 <li> Speech Recognition 3.3.3 - https://pypi.python.org/pypi/SpeechRecognition/ </li>
 <li> NLTK - http://www.nltk.org/install.html and http://www.nltk.org/data.html both are required to be installed </li>
 <li> Termcolor - https://pypi.python.org/pypi/termcolor </li>
+<li> PyAudio - http://people.csail.mit.edu/hubert/pyaudio/ </li>
 </ol>
 
 It's better to install all these packages in a virtual environment `virtualenv`.

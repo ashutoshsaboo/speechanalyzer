@@ -62,3 +62,7 @@ WRB	wh-abverb	where, when - Magenta <br>
 ## Credits-:
 
 Ashutosh Saboo - https://github.com/ashutoshsaboo
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ashutoshsaboo/speechanalyzer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
